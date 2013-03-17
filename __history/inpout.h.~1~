@@ -1,5 +1,3 @@
-// added LED control macros
-
 #define LED1ON	output_high(pLD1)
 #define LED1OFF	output_low (pLD1)
 
